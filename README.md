@@ -17,7 +17,7 @@ If you wuld like the spider-man layout, it can be searched for and will need to 
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Project Details
-This was a project given to students during Week 8 in the Coding Program at MIT XPro for students to better understand  and apply skills in manipulating styles. We learned how to watch HTML, JavaScript and CSS come together!
+This was a project given to students during Week 9 in the Coding Program at MIT XPro for students to better understand the DOM and how to add an animation to maps. 
 
 ## Roadmap
 Other areas of the city may be explored the future. 
